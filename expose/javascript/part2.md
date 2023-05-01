@@ -100,3 +100,11 @@ in .js file
 # 17 
 [2] will be returned because when modifyArray is called, it will first create an empty array named newArr. Then, it enters the for loop and pushes the first element of the passed-in array parameter to the newArr, which is 1, and since return in right after the push statement, an array with one single element [1] is returned. and doSomething function doubles the value of the element, thus returning [2].
 
+# 19
+
+1  
+4  
+3  
+2  
+
+will be the output. 
